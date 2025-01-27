@@ -1,0 +1,22 @@
+{
+  "name": "Mypod",
+  "version": "0.1.0",
+  "summary": "A short description of Mypod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SomdattaSikdar/Mypod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SomdattaSikdar": "somdattasikdar@fss.co.in"
+  },
+  "source": {
+    "git": "https://github.com/SomdattaSikdar/Mypod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Mypod/Classes/**/*"
+}
